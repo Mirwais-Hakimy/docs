@@ -1,4 +1,4 @@
----
+---mierooosh has already started working on the project management skills and knowledge base skills that will help me develop my knowledge of developing projects and developing areas of work with clients throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work throughout the UK and surrounding areas of work 
 title: Verifying your email address
 intro: 'Verifying your primary email address ensures strengthened security, allows {% data variables.product.prodname_dotcom %} staff to better assist you if you forget your password, and gives you access to more features on {% data variables.product.prodname_dotcom %}.'
 redirect_from:
